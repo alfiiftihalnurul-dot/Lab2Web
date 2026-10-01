@@ -27,47 +27,48 @@ Lab2Web/
 ### 1. Membuat Tabel Data Mahasiswa
 Membuat tabel dengan `<table>`, `<tr>`, `<th>`, dan `<td>`, berisi minimal tiga data mahasiswa (NIM, Nama, Program Studi).
 
-![Screenshot Langkah 1](screenshots/langkah1.png)
+![Screenshot Langkah 1](screenshots/langkah1.png.png)
 
 ### 2. Tabel dengan thead, tbody, tfoot
 Menambahkan `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, dan `colspan` untuk menggabungkan sel pada baris rata-rata.
 
-![Screenshot Langkah 2](screenshots/langkah2.png)
+![Screenshot Langkah 2](screenshots/langkah2.png.png)
 
 ### 3. Form Registrasi Mahasiswa
 Membuat form dengan input `text`, `email`, `password`, `date`, serta tombol `submit` dan `reset`. Setiap input dihubungkan dengan `<label for="...">`.
 
-![Screenshot Langkah 3](screenshots/langkah3.png)
+![Screenshot Langkah 3](screenshots/langkah3.png.png)
 
 ### 4. Radio Button dan Checkbox
 Radio button (`name="jk"`) untuk jenis kelamin (satu pilihan), checkbox (`name="skill"`) untuk keahlian (boleh lebih dari satu).
 
-![Screenshot Langkah 4](screenshots/langkah4.png)
+![Screenshot Langkah 4](screenshots/langkah4.png.png)
 
 ### 5. Select dan Textarea
 Menambahkan `<select>` untuk program studi dan `<textarea>` untuk alamat.
 
-![Screenshot Langkah 5](screenshots/langkah5.png)
+![Screenshot Langkah 5](screenshots/langkah5.png.png)
 
 ### 6. Validasi Form Dasar
 Menggunakan atribut `required`, `minlength`, `min`, dan `max`. Saat tombol Kirim ditekan tanpa mengisi data, browser menampilkan pesan validasi.
 
-![Screenshot Langkah 6](screenshots/langkah6.png)
+![Screenshot Langkah 6](screenshots/langkah6.png.png)
 
 ### 7. Halaman Semantic HTML
 Menyusun halaman dengan `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`.
 
-![Screenshot Langkah 7](screenshots/langkah7.png)
+![Screenshot Langkah 7](screenshots/langkah7.png.png)
 
 ### 8. Multimedia
 Menambahkan `<audio controls>` dan `<video controls>` dengan elemen `<source>`.
 
-![Screenshot Langkah 8](screenshots/langkah8.png)
+![Screenshot Langkah 8](screenshots/langkah8.png.png)
 
 ### 9. Proyek Mini: Biodata Mahasiswa
 File `biodata.html` menggabungkan semantic structure, tabel, form dengan validasi, dan satu elemen video.
 
-![Screenshot Proyek Mini](screenshots/proyek-mini.png)
+![Screenshot Proyek Mini](screenshots/proyek-mini.png.png)
+![secreenshots Proyek Mini](screenshots/proyek-mini2.png.png).
 
 ## Jawaban Pertanyaan
 
